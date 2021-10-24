@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /blog/
+layout: default
 ---
 <ul>
   {% for post in site.posts %}
